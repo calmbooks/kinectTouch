@@ -1,0 +1,12 @@
+<group>
+	<Floor_brightness>142</Floor_brightness>
+	<mm_min>400</mm_min>
+	<mm_max>1000</mm_max>
+	<bri_min>161</bri_min>
+	<bri_max>204</bri_max>
+	<Target_Rect_x>0</Target_Rect_x>
+	<Target_Rect_y>238</Target_Rect_y>
+	<Target_Rect_w>640</Target_Rect_w>
+	<Target_Rect_h>10</Target_Rect_h>
+<group/>
+</group>
